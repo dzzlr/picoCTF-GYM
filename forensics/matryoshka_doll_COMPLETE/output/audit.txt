@@ -1,0 +1,25 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Sat Aug 21 11:40:20 2021
+Invocation: foremost dolls.jpg 
+Output directory: /mnt/c/Users/HacHi/Downloads/ctf/picoctf/forensics/matryoshka-doll/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: dolls.jpg
+Start: Sat Aug 21 11:40:20 2021
+Length: 636 KB (651634 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000532.zip 	     370 KB 	     272492 	 
+1:	00000000.png 	     266 KB 	          0 	  (594 x 1104)
+Finish: Sat Aug 21 11:40:20 2021
+
+2 FILES EXTRACTED
+	
+zip:= 1
+png:= 1
+------------------------------------------------------------------
+
+Foremost finished at Sat Aug 21 11:40:20 2021

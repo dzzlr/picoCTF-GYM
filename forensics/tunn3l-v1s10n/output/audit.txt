@@ -1,0 +1,21 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Mon Aug 16 11:04:44 2021
+Invocation: foremost tunn3l_v1s10n 
+Output directory: /mnt/c/Users/HacHi/Downloads/ctf/picoctf/forensics/tunn3l-v1s10n/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: tunn3l_v1s10n
+Start: Mon Aug 16 11:04:44 2021
+Length: 2 MB (2893454 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+Finish: Mon Aug 16 11:04:44 2021
+
+0 FILES EXTRACTED
+	
+------------------------------------------------------------------
+
+Foremost finished at Mon Aug 16 11:04:44 2021
